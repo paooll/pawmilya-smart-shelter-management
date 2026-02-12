@@ -157,7 +157,7 @@ The application also supports rescue coordination by allowing users and verified
 ##  Installation Instructions
 
 ### Clone Repository
-git clone https://github.com/paulikat/pawmilya-iot-animal-welfare-system.git
+git clone https://github.com/paooll/pawmilya-smart-shelter-management.git
 
 
 ### Navigate to Project Folder
