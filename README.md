@@ -239,7 +239,7 @@ npx react-native run-android
 ## Academic Information
 Institution: Technological Institute of the Philippines  
 Program: BS Information Technology  
-Course: Mobile Computing  
+Course:  Application Development and Emerging Technologies  
 
 ---
 
