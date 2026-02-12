@@ -1,4 +1,4 @@
-# Animal Kingdom - Flutter App
+# Pawmilya - Flutter App
 
 A beautiful Flutter application featuring an animated animal-themed splash screen.
 
@@ -63,3 +63,4 @@ You can customize the app by:
 ## License
 
 This project is open source and available for educational purposes.
+
